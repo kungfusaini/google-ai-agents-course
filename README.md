@@ -32,4 +32,5 @@ all of them)
 - `day-2/agent-tools-mcp.md` - Whitepaper notes: MCP integration and tool development
 
 ### Day 3: Context Engineering: Sessions & Memory
+- `day-3/day-3.md` - Code notes: Sessions, Memory and how to use them
 - `day-3/context_engineering_sessions_memory.md` - Whitepaper notes: Context engineering, sessions, and memory systems
