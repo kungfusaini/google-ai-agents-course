@@ -16,7 +16,7 @@ Also contains a simple nixenv and direnv setup for environment management
 ## Code
 
 Built using **Google Agent Development Kit (ADK)** with Python and Gemini models.
-Each day has it's associated code which you can find in the the repo.
+Each day has it's associated code which you can find in the repo.
 
 ## Personal Detailed Notes
 
@@ -34,3 +34,7 @@ all of them)
 ### Day 3: Context Engineering: Sessions & Memory
 - `day-3/day-3.md` - Code notes: Sessions, Memory and how to use them
 - `day-3/context_engineering_sessions_memory.md` - Whitepaper notes: Context engineering, sessions, and memory systems
+
+### Day 4: Agent Quality
+- `day-4/agent-quality.md` - Whitepaper notes: How to evaluate agent quality and principles for designing high
+  quality agents
