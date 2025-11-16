@@ -1,0 +1,8 @@
+{
+  "scenarios": [
+    {
+      "starting_prompt": "What can you do for me?",
+      "conversation_plan": "Ask the agent what devices can control. After you get a result, choose one and ask to turn it on"
+    }
+  ]
+}

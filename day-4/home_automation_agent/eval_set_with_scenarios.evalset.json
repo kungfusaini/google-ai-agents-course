@@ -1,0 +1,19 @@
+{
+  "eval_set_id": "eval_set_with_scenarios",
+  "name": "eval_set_with_scenarios",
+  "eval_cases": [
+    {
+      "eval_id": "4a08b44e",
+      "conversation_scenario": {
+        "starting_prompt": "What can you do for me?",
+        "conversation_plan": "Ask the agent what devices can control. After you get a result, choose one and ask to turn it on"
+      },
+      "session_input": {
+        "app_name": "home_automation_agent",
+        "user_id": "user"
+      },
+      "creation_timestamp": 1763294220.903976
+    }
+  ],
+  "creation_timestamp": 1763294164.0299509
+}
