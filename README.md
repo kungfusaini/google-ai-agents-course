@@ -36,5 +36,6 @@ all of them)
 - `day-3/context_engineering_sessions_memory.md` - Whitepaper notes: Context engineering, sessions, and memory systems
 
 ### Day 4: Agent Quality
+- `day-4/day-4.md` - Code notes: How to asses agent quality with test cases
 - `day-4/agent-quality.md` - Whitepaper notes: How to evaluate agent quality and principles for designing high
   quality agents
