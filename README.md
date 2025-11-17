@@ -39,3 +39,7 @@ all of them)
 - `day-4/day-4.md` - Code notes: How to asses agent quality with test cases
 - `day-4/agent-quality.md` - Whitepaper notes: How to evaluate agent quality and principles for designing high
   quality agents
+
+### Day 5: Prototype to Production
+- `day-5/prototype-to-production.md` - Whitepaper notes: Moving local agent to production - best practices
+
