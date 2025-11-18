@@ -19,6 +19,7 @@
             python3
             python3Packages.pip
             git
+            google-cloud-sdk
           ];
         };
       }
