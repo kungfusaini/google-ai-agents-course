@@ -41,5 +41,6 @@ all of them)
   quality agents
 
 ### Day 5: Prototype to Production
+- `day-5/day-5.md` - Code notes: MCP and deployment
 - `day-5/prototype-to-production.md` - Whitepaper notes: Moving local agent to production - best practices
 
